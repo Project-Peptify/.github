@@ -40,7 +40,7 @@ To better understand the sequence-function relationship of AMPs — and maybe, j
 ## 🔗 Useful Links
 
 - [GitHub Issues](https://github.com/your-org/your-repo/issues) — for tasks & ideas
-- [Shared Notion Workspace](#) *(add yours!)*
+- [Shared Design Document](https://docs.google.com/document/d/143yIfQ7Jbl67BNd_KE1srpJG4u1D-skrHcq9hRsjuok/edit?usp=sharing) *(add yours!)*
 - [Literature Review Notes](#) *(add yours!)*
 
 ---
