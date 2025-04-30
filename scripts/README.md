@@ -4,3 +4,5 @@ readProteinFasta.py will read a file from inside the proteinFasta folder and out
 be sure to remove the first line of the FASTA file that says ">Your search led to 3306 peptides"
 
 proteinName|length|peptideSequence|molecularWeight|charge|np%
+
+Usage: In terminal, go to /scripts and use the following command: `python readProteinFasta.py <name of the input fasta file> <name of the output csv file>`
